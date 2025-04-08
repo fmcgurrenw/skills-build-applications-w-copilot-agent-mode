@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-pq%9-t#%g%9leh!fo@+=+*t)&!+8+x3@m&_!ukv+t1c!ow(3ng
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ominous-carnival-9769gw6wv572xj57-8000.app.github.dev']
 
 
 # Application definition
